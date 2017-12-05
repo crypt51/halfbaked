@@ -1,10 +1,14 @@
 <dir>
-<title>Stoner Movies</title>
+<title>LMAO</title>
 <tmdb>list/40553</tmdb>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
+
 <dir>
-<title>Search TMDB</title>
-<tmdb>search</tmdb>
+<title>Kickass/Serious</title>
+<tmdb>list/</tmdb>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </dir>
+
